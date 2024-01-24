@@ -25,8 +25,9 @@ Certifique-se de ter o Node.js instalado no seu sistema. Em seguida, siga estes 
    ```
 
 3. Execute o Quiz:
- ```bash
-  node index.js
- ```
+ 
+    ```bash
+    node index.js
+    ```
 
 Divirta-se jogando o Quiz!
