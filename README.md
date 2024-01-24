@@ -16,4 +16,17 @@ Certifique-se de ter o Node.js instalado no seu sistema. Em seguida, siga estes 
 
    ```bash
    git clone https://github.com/reiskaren0228/exerQuizDevMedia.git
+   ```
 
+2. Instale as dependências:
+   
+   ```bash
+   npm install
+   ```
+
+3. Execute o Quiz:
+ ```bash
+  node index.js
+ ```
+
+Divirta-se jogando o Quiz!
